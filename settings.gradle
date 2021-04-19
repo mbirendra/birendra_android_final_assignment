@@ -1,0 +1,3 @@
+include ':lensdaysos'
+include ':app'
+rootProject.name = "Lensdays Optical Store"
